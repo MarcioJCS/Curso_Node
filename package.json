@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "curso_node",
+  "description": "Repositorio do Curso de NodeJS da Hcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioJCS/curso-node-1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Marcio Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcioJCS/curso-node-1/issues"
+  },
+  "homepage": "https://github.com/MarcioJCS/cursonode#readme"
+}
