@@ -1,1 +1,2 @@
-Criando o primeiro servidor http em node
+FS -> File System é uma API nativa do node que nos permite manipular arquivos do sistema operacional.
+Com ele podemos criar arquivos, ler arquivos,mover esses arquivos, copiar o que precisarmos dentro do sistema operacional.
